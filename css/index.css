@@ -79,6 +79,20 @@ th{
 	background-color: #EEE;
 }
 
+td {
+	background-color: #dae8fc;
+}
+
+#imc {
+	background-color:#8257e6;
+	color: white;
+}
+
+tr td.info-imc {
+	font-weight: bold;
+	background-color: rgb(236, 205, 248);
+}
+
 label{
 	color: #555;
 	display: block;
