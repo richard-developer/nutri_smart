@@ -2,7 +2,7 @@
 //document.querySelector(".titulo").innerHTML = " App NutriSmart";
 
 // querySelector retorna somente um elemento;
-// quertSelectorAll retorna um array de elementos, com todos eles;
+// querySelectorAll retorna um array de elementos, com todos eles;
 
 //var paciente = document.querySelector(".paciente"); 
 //console.log(paciente); // imprime apenas o primeiro paciente
